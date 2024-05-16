@@ -1,0 +1,27 @@
+h1,h2,h3,h4,h5,h6{
+  font-family: "Poetsen One", sans-serif;
+}
+
+p,span,a{
+  font-family: "Playfair Display", serif;
+}
+
+h1{
+  font-size: 80px;
+  font-weight: 700;
+}
+
+p{
+  font-size: 35px;
+  font-weight: 400;
+}
+
+button{ 
+  padding: 40px 80px !important;
+  background-color: #6CAE75 !important;
+  border: none !important;
+}
+
+button:hover{
+  background-color: #8BBD8B !important;
+}
